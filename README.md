@@ -2,7 +2,7 @@
 
 **NavTools** is a lightweight Blender add-on created by **Dave Wilson** for artists who prefer industry-style viewport navigation and W/E/R transform controls.
 
-It is designed to make Blender feel more familiar for artists coming from Maya-style or studio-style 3D workflows. One click gives you familiar Alt-mouse navigation, W/E/R transform keys, helpful viewport extras and remapped edit-mode shortcuts. It is just as easy to switch back to Blender defaults.
+It is designed to make Blender feel more familiar for artists coming from Maya-style or studio-style 3D workflows. One click gives you familiar Alt-mouse navigation, W/E/R transform keys, helpful viewport extras and remapped edit-mode shortcuts. It is just as easy to switch back to Blender defaults. This tool was built with assistance from AI.
 
 If you enjoy what I do, consider supporting me! Every little bit means a lot! https://ko-fi.com/ubudave
 
